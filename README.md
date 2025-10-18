@@ -1,2 +1,2 @@
 # Power-Flow-Calculation-Code
-This place is for storing examples of power system simulations related to the title above.
+This place is for storing code of power system simulations related to the title above.
